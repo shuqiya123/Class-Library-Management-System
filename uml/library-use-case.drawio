@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
+  <diagram name="第 1 页" id="2Sn8_LBj4dC7opBy4QHB">
+    <mxGraphModel dx="1205" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bySGo01nE_evRLSUEZba-21" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="192" y="46" width="372" height="661" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="249" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="236" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-4" value="图书信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="392" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-5" value="图书信息录入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="492" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-6" value="借阅登记" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="168" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-7" value="图书搜索" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="59" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-8" value="归还登记" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="287" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-9" value="借阅记录查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="597" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-2" target="bySGo01nE_evRLSUEZba-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="424" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-2" target="bySGo01nE_evRLSUEZba-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="424" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-2" target="bySGo01nE_evRLSUEZba-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="424" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-2" target="bySGo01nE_evRLSUEZba-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="424" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-2" target="bySGo01nE_evRLSUEZba-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="424" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-2" target="bySGo01nE_evRLSUEZba-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="347" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-1" target="bySGo01nE_evRLSUEZba-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="296" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-1" target="bySGo01nE_evRLSUEZba-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="424" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bySGo01nE_evRLSUEZba-1" target="bySGo01nE_evRLSUEZba-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="276" as="sourcePoint" />
+            <mxPoint x="439" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bySGo01nE_evRLSUEZba-22" value="图书角系统" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="8" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
